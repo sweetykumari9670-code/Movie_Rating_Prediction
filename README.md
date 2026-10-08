@@ -1,4 +1,4 @@
-# CODSOFT Task 2 - Movie Rating Prediction
+
 
 ## Project Overview
 This project predicts movie ratings using machine learning techniques in Python.
